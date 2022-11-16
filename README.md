@@ -32,6 +32,14 @@ python AppAUA4GRO.py
 
 Introduce the SMILES codes and press enter. The script will generate coordinate file ('.gro') and topology file ('.top').
 
+## Description of files
+
+- aua4gro.yml : Yaml file for the creation of conda enviroment.
+- AppAUA4GRO.py : Automated routine (main python file).
+- AUA4_parameters_2.py : Python file containing all AUA4 force field parameters.
+- utilities.py : Python module containing classes and auxiliary functions used by the main code.
+- opt/ : Folder Folder containing files optimized for alkanolamines.
+
 ## Citation
 
 Please cite this work as: Castro-Anaya, L., Gomez, S.Y., Orozco, G.. Comprehensive automated routine implementation, validation, and benchmark of the anisotropic force field (AUA4) using Python and GROMACS. XXXX.
