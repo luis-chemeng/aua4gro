@@ -38,7 +38,7 @@ Introduce the SMILES codes and press enter. The script will generate coordinate 
 - AppAUA4GRO.py : Automated routine (main python file).
 - AUA4_parameters_2.py : Python file containing all AUA4 force field parameters.
 - utilities.py : Python module containing classes and auxiliary functions used by the main code.
-- opt/ : Folder Folder containing files optimized for alkanolamines.
+- opt/ : Folder containing files optimized for alkanolamines.
 
 ## Citation
 
