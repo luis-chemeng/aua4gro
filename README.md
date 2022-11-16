@@ -34,5 +34,8 @@ Introduce the SMILES codes and press enter. The script will generate coordinate 
 
 ## Citation
 
-Please cite this work as: Castro-Anaya, L., Gomez, S.Y., Orozco, G.. Comprehensive automated routine implementation, validation, and benchmark of the anisotropic force field (AUA4) using Python and GROMACS. XXXX. 
+Please cite this work as: Castro-Anaya, L., Gomez, S.Y., Orozco, G.. Comprehensive automated routine implementation, validation, and benchmark of the anisotropic force field (AUA4) using Python and GROMACS. XXXX.
 
+## License 
+
+This project is licensed under the terms of the GNU General Public License v3.0 (GPU GPLv3).
